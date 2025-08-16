@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @azraftaohid
-- 👀 I’m mainly focused on Android app development
-- 🌱 However, I'm also finding web app development really interesting
-- 📫 You can reach me via [email](azraftaohid@outlook.com) or [Facebook Messenger](m.me/azraftaohid)
+👋 Hi, I’m @azraftaohid.  
+📚 I’m currently pursuing a degree in Civil & Environmental Engineering.  
+💻 Outside academics, I enjoy coding — building Android apps, web apps, and experimenting with new tools.  
+📫 Reach me at:  
+- Email: [hello@azraftaohid.me](mailto:hello@azraftaohid.me)  
+- Messenger: [m.me/azraftaohid](https://m.me/azraftaohid)  
 
 <!---
 azraftaohid/azraftaohid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
